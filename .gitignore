@@ -1,1 +1,17 @@
 target/
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.classpath
+.project
+.externalToolBuilders/
+*.launch
+.buildpath
+.DS_Store
