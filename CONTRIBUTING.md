@@ -5,4 +5,4 @@ Thanks for contributing to BonaFIDE! To get started:
 1. Make sure the code compiles and automated test suite succeeds by running `mvn clean test`.
 1. Issue a pull request.
 
-If you have any questions, open an issue or tweet @gresrun.
+If you have any questions, open an issue or tweet [@gresrun](https://twitter.com/intent/tweet?text=@gresrun%20I%20want%20to%20contribute%20to%20BonaFIDE).
